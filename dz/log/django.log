@@ -1,0 +1,133 @@
+INFO 2024-03-09 01:28:38,507 autoreload 13596 10636 Watching for file changes with StatReloader
+INFO 2024-03-09 01:31:05,948 autoreload 13596 10636 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dz\urls.py changed, reloading.
+INFO 2024-03-09 01:31:06,506 autoreload 16600 15228 Watching for file changes with StatReloader
+INFO 2024-03-09 01:31:11,142 autoreload 16600 15228 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dz\urls.py changed, reloading.
+INFO 2024-03-09 01:31:11,655 autoreload 1796 8752 Watching for file changes with StatReloader
+INFO 2024-03-09 01:31:19,139 autoreload 1796 8752 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dz\urls.py changed, reloading.
+INFO 2024-03-09 01:31:19,682 autoreload 16512 17484 Watching for file changes with StatReloader
+INFO 2024-03-09 01:31:21,983 autoreload 16512 17484 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dz\urls.py changed, reloading.
+INFO 2024-03-09 01:31:22,537 autoreload 12860 3968 Watching for file changes with StatReloader
+INFO 2024-03-09 01:31:27,954 autoreload 12860 3968 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dz\urls.py changed, reloading.
+INFO 2024-03-09 01:31:28,500 autoreload 16640 15148 Watching for file changes with StatReloader
+INFO 2024-03-09 01:31:30,762 autoreload 16640 15148 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dz\urls.py changed, reloading.
+INFO 2024-03-09 01:31:31,287 autoreload 14804 13772 Watching for file changes with StatReloader
+INFO 2024-03-09 01:31:35,809 autoreload 14804 13772 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dz\urls.py changed, reloading.
+INFO 2024-03-09 01:31:36,386 autoreload 8812 14988 Watching for file changes with StatReloader
+INFO 2024-03-09 01:31:48,333 autoreload 8812 14988 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dz\urls.py changed, reloading.
+INFO 2024-03-09 01:31:48,851 autoreload 16536 11696 Watching for file changes with StatReloader
+INFO 2024-03-09 01:31:52,333 autoreload 16536 11696 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dz\urls.py changed, reloading.
+INFO 2024-03-09 01:31:52,824 autoreload 14556 8444 Watching for file changes with StatReloader
+INFO 2024-03-09 01:32:28,609 autoreload 14556 8444 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:32:29,146 autoreload 14092 5968 Watching for file changes with StatReloader
+INFO 2024-03-09 01:32:37,834 autoreload 14092 5968 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:32:38,329 autoreload 6924 16476 Watching for file changes with StatReloader
+INFO 2024-03-09 01:32:39,543 autoreload 6924 16476 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:32:40,037 autoreload 2308 16280 Watching for file changes with StatReloader
+INFO 2024-03-09 01:32:46,489 autoreload 2308 16280 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:32:47,019 autoreload 8936 13192 Watching for file changes with StatReloader
+INFO 2024-03-09 01:32:52,414 autoreload 8936 13192 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:32:53,085 autoreload 2392 13640 Watching for file changes with StatReloader
+INFO 2024-03-09 01:32:57,484 autoreload 2392 13640 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:32:58,030 autoreload 3112 3100 Watching for file changes with StatReloader
+INFO 2024-03-09 01:33:01,340 autoreload 3112 3100 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:33:01,834 autoreload 1788 17472 Watching for file changes with StatReloader
+INFO 2024-03-09 01:33:03,305 autoreload 1788 17472 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:33:03,823 autoreload 15460 13112 Watching for file changes with StatReloader
+INFO 2024-03-09 01:33:14,755 autoreload 15460 13112 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:33:15,334 autoreload 17372 16584 Watching for file changes with StatReloader
+INFO 2024-03-09 01:33:17,782 autoreload 17372 16584 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:33:18,334 autoreload 14640 16148 Watching for file changes with StatReloader
+INFO 2024-03-09 01:33:19,750 autoreload 14640 16148 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:33:20,239 autoreload 8112 16344 Watching for file changes with StatReloader
+INFO 2024-03-09 01:33:22,721 autoreload 8112 16344 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:33:23,273 autoreload 13632 16740 Watching for file changes with StatReloader
+INFO 2024-03-09 01:33:32,024 autoreload 13632 16740 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:33:32,520 autoreload 13404 12900 Watching for file changes with StatReloader
+INFO 2024-03-09 01:33:47,445 autoreload 13404 12900 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:33:47,971 autoreload 9324 3628 Watching for file changes with StatReloader
+INFO 2024-03-09 01:33:52,294 autoreload 9324 3628 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:33:52,783 autoreload 14836 3188 Watching for file changes with StatReloader
+INFO 2024-03-09 01:33:55,055 autoreload 14836 3188 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:33:55,551 autoreload 17852 16532 Watching for file changes with StatReloader
+INFO 2024-03-09 01:34:29,353 autoreload 17852 16532 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:34:29,833 autoreload 8396 18236 Watching for file changes with StatReloader
+INFO 2024-03-09 01:40:45,402 autoreload 8396 18236 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:40:45,924 autoreload 12180 17912 Watching for file changes with StatReloader
+INFO 2024-03-09 01:40:48,398 autoreload 12180 17912 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:40:48,899 autoreload 2596 17496 Watching for file changes with StatReloader
+INFO 2024-03-09 01:40:50,101 autoreload 2596 17496 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:40:50,597 autoreload 18200 13596 Watching for file changes with StatReloader
+INFO 2024-03-09 01:40:52,862 autoreload 18200 13596 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:40:53,350 autoreload 15872 17724 Watching for file changes with StatReloader
+INFO 2024-03-09 01:42:25,461 autoreload 15872 17724 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:42:25,952 autoreload 1796 14456 Watching for file changes with StatReloader
+INFO 2024-03-09 01:42:30,592 autoreload 1796 14456 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:42:31,081 autoreload 14560 17736 Watching for file changes with StatReloader
+INFO 2024-03-09 01:42:39,804 autoreload 14560 17736 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:42:40,295 autoreload 17588 18300 Watching for file changes with StatReloader
+INFO 2024-03-09 01:42:44,928 autoreload 17588 18300 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:42:45,446 autoreload 6924 3684 Watching for file changes with StatReloader
+INFO 2024-03-09 01:42:46,893 autoreload 6924 3684 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:42:47,387 autoreload 12892 16104 Watching for file changes with StatReloader
+INFO 2024-03-09 01:42:48,864 autoreload 12892 16104 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:42:49,352 autoreload 2824 3968 Watching for file changes with StatReloader
+INFO 2024-03-09 01:42:59,326 autoreload 2824 3968 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:42:59,878 autoreload 15516 1040 Watching for file changes with StatReloader
+INFO 2024-03-09 01:43:05,449 autoreload 15516 1040 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:43:05,941 autoreload 6148 13832 Watching for file changes with StatReloader
+INFO 2024-03-09 01:43:10,640 autoreload 6148 13832 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:43:11,146 autoreload 18412 17600 Watching for file changes with StatReloader
+INFO 2024-03-09 01:43:13,658 autoreload 18412 17600 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:43:14,158 autoreload 5060 3720 Watching for file changes with StatReloader
+INFO 2024-03-09 01:43:16,636 autoreload 5060 3720 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:43:17,131 autoreload 13820 18176 Watching for file changes with StatReloader
+INFO 2024-03-09 01:43:21,700 autoreload 13820 18176 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:43:22,214 autoreload 8712 15648 Watching for file changes with StatReloader
+INFO 2024-03-09 01:43:23,613 autoreload 8712 15648 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:43:24,101 autoreload 18096 6436 Watching for file changes with StatReloader
+INFO 2024-03-09 01:43:26,627 autoreload 18096 6436 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:43:27,132 autoreload 2544 15852 Watching for file changes with StatReloader
+INFO 2024-03-09 01:43:29,633 autoreload 2544 15852 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:43:30,146 autoreload 2720 16712 Watching for file changes with StatReloader
+INFO 2024-03-09 01:43:33,717 autoreload 2720 16712 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:43:34,226 autoreload 12512 6236 Watching for file changes with StatReloader
+INFO 2024-03-09 01:43:35,643 autoreload 12512 6236 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:43:36,157 autoreload 1340 16800 Watching for file changes with StatReloader
+INFO 2024-03-09 01:43:39,745 autoreload 1340 16800 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:43:40,267 autoreload 17892 1040 Watching for file changes with StatReloader
+INFO 2024-03-09 01:43:43,855 autoreload 17892 1040 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:43:44,356 autoreload 8124 9228 Watching for file changes with StatReloader
+INFO 2024-03-09 01:43:45,795 autoreload 8124 9228 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:43:46,275 autoreload 7136 6352 Watching for file changes with StatReloader
+INFO 2024-03-09 01:44:12,999 autoreload 7136 6352 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dz\urls.py changed, reloading.
+INFO 2024-03-09 01:44:13,490 autoreload 2076 17184 Watching for file changes with StatReloader
+INFO 2024-03-09 01:44:17,008 autoreload 2076 17184 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dz\urls.py changed, reloading.
+INFO 2024-03-09 01:44:17,579 autoreload 13624 16104 Watching for file changes with StatReloader
+INFO 2024-03-09 01:45:27,505 autoreload 13624 16104 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dz\urls.py changed, reloading.
+INFO 2024-03-09 01:45:28,041 autoreload 7364 9920 Watching for file changes with StatReloader
+INFO 2024-03-09 01:45:39,901 autoreload 7364 9920 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:45:40,409 autoreload 16220 15132 Watching for file changes with StatReloader
+INFO 2024-03-09 01:45:46,912 autoreload 16220 15132 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:45:47,424 autoreload 16244 3100 Watching for file changes with StatReloader
+INFO 2024-03-09 01:45:49,688 autoreload 16244 3100 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:45:50,210 autoreload 4532 15364 Watching for file changes with StatReloader
+INFO 2024-03-09 01:45:59,819 autoreload 4532 15364 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:46:00,358 autoreload 7696 5556 Watching for file changes with StatReloader
+INFO 2024-03-09 01:46:09,135 autoreload 7696 5556 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:46:09,635 autoreload 11572 16156 Watching for file changes with StatReloader
+INFO 2024-03-09 01:46:23,704 autoreload 11572 16156 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:46:24,230 autoreload 17304 2300 Watching for file changes with StatReloader
+INFO 2024-03-09 01:46:31,008 autoreload 17304 2300 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:46:31,502 autoreload 4192 10992 Watching for file changes with StatReloader
+INFO 2024-03-09 01:46:34,002 autoreload 4192 10992 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:46:34,510 autoreload 8212 7668 Watching for file changes with StatReloader
+INFO 2024-03-09 01:46:35,912 autoreload 8212 7668 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:46:36,416 autoreload 2104 2520 Watching for file changes with StatReloader
+INFO 2024-03-09 01:46:39,972 autoreload 2104 2520 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:46:40,475 autoreload 16804 16476 Watching for file changes with StatReloader
+INFO 2024-03-09 01:46:41,906 autoreload 16804 16476 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:46:42,386 autoreload 14784 2288 Watching for file changes with StatReloader
+INFO 2024-03-09 01:46:45,914 autoreload 14784 2288 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:46:46,423 autoreload 14828 16836 Watching for file changes with StatReloader
+INFO 2024-03-09 01:46:47,862 autoreload 14828 16836 C:\Users\De\Desktop\osjunkyard\gb\ZsYP\djangofett\1\dz\dz\dzapp\views.py changed, reloading.
+INFO 2024-03-09 01:46:48,450 autoreload 3496 3480 Watching for file changes with StatReloader
